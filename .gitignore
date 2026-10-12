@@ -134,6 +134,9 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Streamlit secrets
+.streamlit/secrets.toml
+
 # Environments
 .env
 .envrc
@@ -205,3 +208,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.venv/
+venv/
+__pycache__/
+.env

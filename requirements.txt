@@ -3,3 +3,10 @@ streamlit-folium
 folium
 groq
 requests
+shapely
+scipy
+numpy
+
+now my task is to present the project's intro and addressing of problem statement, 
+give a professional content to present those things
+hope you about my project
